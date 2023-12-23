@@ -1,0 +1,46 @@
+html {
+    background-color: gainsboro;
+}
+p {
+    color: blue;
+    font-size: 25px;
+}
+
+h1 {
+    background-color: aqua;
+    border: solid 15px black;
+    width: 75%;
+
+}
+
+.história1{
+    margin: 50px ;
+    background-color: gainsboro;
+    padding: 60px;
+    border-color: blue;
+    border: solid 30px ;
+    font-size: 120%;
+
+}
+
+.história2{
+    margin: 50px ;
+    background-color: gainsboro;
+    padding: 60px;
+    border-color: blue;
+    border: solid 30px ;
+    font-size: 120%;
+}
+
+.titulos{
+    background-color: grey;
+    padding: 20px;
+    margin: 0px;
+    width: 65%;   
+
+}
+
+.titulos span{
+    color: red;
+    font-size: 25px;
+}
